@@ -35,12 +35,3 @@ In my spare time, I like to read books, watch movies, play chess. I’m always e
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ahmelkholy&label=Profile%20Views&color=1&icon=2&pretty=true" />
-  </a>
-</div>
-
-###
-
