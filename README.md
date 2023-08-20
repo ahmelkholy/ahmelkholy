@@ -23,30 +23,6 @@ In my spare time, I like to read books, watch movies, play chess. I’m always e
 
 - 👯 I’m looking to collaborate on building power system analysis package in MATLAB language as well as python.
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+ahmelkholy+!;" />
-</h1>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
-  <img alt="github-snake" src="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
-</picture>
-
-###
-
-<h2 align="center">Technical Skills :</h2>
-
-###
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,dart,c,cpp,rust,lua,html,css"/><br>
-    <img src="https://skillicons.dev/icons?i=sass,markdown,nodejs,mongodb,mysql,git,github,idea,linux"/><br>
-</div>
-
-###
 
 <h2 align="center">Stats :</h2>
 
