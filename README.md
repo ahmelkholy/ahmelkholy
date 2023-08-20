@@ -24,7 +24,7 @@ In my spare time, I like to read books, watch movies, play chess. I’m always e
 - 👯 I’m looking to collaborate on building power system analysis package in MATLAB language as well as python.
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+zqodev+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+ahmelkholy+!;" />
 </h1>
 
 ###
@@ -53,16 +53,16 @@ In my spare time, I like to read books, watch movies, play chess. I’m always e
 ###
 
 <div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=zqodev&count_private=true&theme=transparent&border_radius=10" alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zqodev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=zqodev&hide_title=false&hide=contribs,issues&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"/>
+  <img width=390 src="https://streak-stats.demolab.com/?user=ahmelkholy&count_private=true&theme=transparent&border_radius=10" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmelkholy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ahmelkholy&hide_title=false&hide=contribs,issues&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"/>
 </div>
 
 ###
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=zqodev&label=Profile%20Views&color=1&icon=2&pretty=true" />
+    <img src="https://visitcount.itsvg.in/api?id=ahmelkholy&label=Profile%20Views&color=1&icon=2&pretty=true" />
   </a>
 </div>
 
