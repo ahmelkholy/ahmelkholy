@@ -22,6 +22,19 @@ My research interests include grid synchronization, distributed generators, adap
 In my spare time, I like to read books, watch movies, play chess. I’m always eager to learn new things and meet new people. If you want to know more about me or my work, feel free to contact me anytime."
 
 - 👯 I’m looking to collaborate on building power system analysis package in MATLAB language as well as python.
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+zqodev+!;" />
+</h1>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
+  <img alt="github-snake" src="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
+</picture>
+
 ###
 
 <h2 align="center">Technical Skills :</h2>
@@ -58,3 +71,4 @@ In my spare time, I like to read books, watch movies, play chess. I’m always e
 </div>
 
 ###
+
