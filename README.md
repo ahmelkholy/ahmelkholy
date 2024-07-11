@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Ahmed Elkholy 👋
 
 <!--
-**engahmelkholy/engahmelkholy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**engahmelkholy/engahmelkholy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,23 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-"I’m Ahmed Elkholy, an assistant lecturer at the Electrical Power and Machines Engineering Department of the Faculty of Engineering at Tanta University. I have a B.Sc. and M.SC. degrees in Electrical Power and Machines Engineering from Tanta University and I’m currently pursuing my Ph.D. degree at Moscow Power Engineering Institute.
+Welcome to my GitHub profile! I'm an Assistant Lecturer at the Electrical Power and Machines Engineering Department, Faculty of Engineering, Tanta University. I hold B.Sc. and M.Sc. degrees in Electrical Power and Machines Engineering from Tanta University and am currently pursuing my Ph.D. degree at Moscow Power Engineering Institute.
 
-My research interests include grid synchronization, distributed generators, adaptive phase-locked loop tuning system, and industrial electronics. I have published several papers in reputable journals and conferences on these topics. I enjoy teaching and mentoring students and sharing my knowledge and experience with them.
+### 📚 My Research Interests
+My research focuses on grid synchronization, distributed generators, adaptive phase-locked loop tuning systems, and industrial electronics. I've published several papers in reputable journals and conferences on these topics. I'm passionate about teaching, mentoring students, and sharing my knowledge and experience.
 
-In my spare time, I like to read books, watch movies, play chess. I’m always eager to learn new things and meet new people. If you want to know more about me or my work, feel free to contact me anytime."
+### 🌟 Personal Interests
+In my free time, I enjoy reading books, watching movies, and playing chess. I'm always eager to learn new things and meet new people. If you're interested in knowing more about me or my work, feel free to reach out!
 
-- 👯 I’m looking to collaborate on building power system analysis package in MATLAB language as well as python.
+### 👯 Collaboration
+I'm currently looking to collaborate on building a power system analysis package in MATLAB and Python. If you're interested in this field or have expertise in power systems and programming, let's connect and explore how we can work together!
 
-
-<h2 align="center">Stats :</h2>
-
-###
+<h2 align="center">📈 My GitHub Stats</h2>
 
 <div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=ahmelkholy&count_private=true&theme=transparent&border_radius=10" alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmelkholy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=ahmelkholy&hide_title=false&hide=contribs,issues&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"/>
+  <img width=390 src="https://streak-stats.demolab.com/?user=ahmelkholy&count_private=true&theme=transparent&border_radius=10" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmelkholy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2&custom_title=Languages" height="150" alt="Languages Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmelkholy&hide_title=false&hide=contribs,issues&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1&custom_title=GitHub Stats" height="150" alt="GitHub Stats Graph"/>
 </div>
-
-###
