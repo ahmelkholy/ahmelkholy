@@ -22,4 +22,13 @@ I'm currently looking to collaborate on building a power system analysis package
   <img width="390" src="https://streak-stats.demolab.com/?user=ahmelkholy&count_private=true&theme=transparent&border_radius=10" alt="GitHub Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmelkholy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2&custom_title=Languages" height="150" alt="Languages Graph"/>
   <img src="https://github-readme-stats.vercel.app/api?username=ahmelkholy&hide_title=false&hide=contribs,issues&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1&custom_title=GitHub Stats" height="150" alt="GitHub Stats Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmelkholy&theme=default" alt="GitHub Profile Summary Card"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=ahmelkholy&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmelkholy&theme=onedark" alt="GitHub Trophy"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmelkholy&theme=highcontrast&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmelkholy&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ahmelkholy&theme=github" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmelkholy&theme=dark" alt="Wakatime Stats"/>
+  <img src="https://komarev.com/ghpvc/?username=ahmelkholy&color=brightgreen" alt="Profile Views Counter"/>
+  <img src="https://img.shields.io/github/stars/ahmelkholy?color=ff69b4&style=for-the-badge" alt="GitHub Stars"/>
 </div>
