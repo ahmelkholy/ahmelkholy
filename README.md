@@ -8,7 +8,7 @@ My research focuses on grid synchronization, distributed generators, adaptive ph
 
 ### 🌟 Personal Interests
 
-In my free time, I enjoy reading books, watching movies, and playing chess. I'm always eager to learn new things and meet new people. If you're interested in knowing more about me or my work, feel free to reach out!
+In my free time, I enjoy watching movies, playing chess, and doing [youtube](https://www.youtube.com/@ahmelkholy) videos. I'm always eager to learn new things and meet new people. If you're interested in knowing more about me or my work, feel free to reach out!
 
 ### 👯 Collaboration
 
