@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmed Elkholy 👋
 
-Welcome to my GitHub profile! I'm an Assistant Lecturer at the Electrical Power and Machines Engineering Department, Faculty of Engineering, Tanta University. I hold B.Sc. and M.Sc. degrees in Electrical Power and Machines Engineering from Tanta University and am currently pursuing my Ph.D. degree at Moscow Power Engineering Institute.
+Welcome to my GitHub profile! I'm an Assistant Lecturer in the Electrical Power and Machines Engineering Department at the Faculty of Engineering, Tanta University. I hold B.Sc. and M.Sc. degrees in Electrical Power and Machines Engineering from Tanta University and am currently pursuing my Ph.D. degree at Moscow Power Engineering Institute.
 
 ## 📚 My Research Interests
 
@@ -8,7 +8,7 @@ My research focuses on grid synchronization, distributed generators, adaptive ph
 
 ## 🌟 Personal Interests
 
-In my free time, I enjoy watching movies, playing chess, and doing [youtube](https://www.youtube.com/@ahmelkholy) videos. I'm always eager to learn new things and meet new people. If you're interested in knowing more about me or my work, feel free to reach out!
+In my free time, I enjoy watching movies, playing chess, and creating [YouTube](https://www.youtube.com/@ahmelkholy) videos. I'm always eager to learn new things and meet new people. If you're interested in knowing more about me or my work, feel free to reach out!
 
 ## 👯 Collaboration
 
@@ -18,6 +18,7 @@ I'm currently looking to collaborate on building a power system analysis package
 
 - [LinkedIn](https://www.linkedin.com/in/ahmelkholy/)
 - [Email](mailto:ahm_elkholy@outlook.com)
+- [YouTube](https://www.youtube.com/@ahmelkholy)
 
 ## 📈 My GitHub Stats
 
