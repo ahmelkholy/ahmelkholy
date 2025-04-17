@@ -1,3 +1,5 @@
+<!-- Optional: Add a banner image here -->
+
 # Hi there, I'm Ahmed Elkholy 👋
 
 > Power Systems Engineer | Researcher | Educator | PhD Candidate
@@ -8,6 +10,8 @@ Welcome to my GitHub profile! I'm an **Assistant Lecturer** in the **Electrical 
   <img src="https://komarev.com/ghpvc/?username=ahmelkholy&color=brightgreen" alt="Profile Views Counter"/>
   <img src="https://img.shields.io/github/followers/ahmelkholy?label=Followers&style=social" alt="GitHub Followers"/>
 </p>
+
+---
 
 ## 📚 Research & Expertise
 
@@ -68,11 +72,13 @@ I'm actively seeking collaborators for a **Power System Analysis** project utili
   <a href="https://www.webofscience.com/wos/author/record/AAS-9757-2020"><img src="https://img.shields.io/badge/Web_of_Science-ResearcherID_AAS--9757--2020-003366?style=for-the-badge&logo=clarivate&logoColor=white" alt="Web of Science"/></a>
 </p>
 
+---
+
 ## 💻 GitHub Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ahmelkholy&show_icons=true&theme=transparent&count_private=true" alt="GitHub Stats"/>
-  <img width="390" src="https://streak-stats.demolab.com/?user=ahmelkholy&count_private=true&theme=transparent&border_radius=10" alt="GitHub Streak Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmelkholy&show_icons=true&theme=transparent&count_private=true" alt="GitHub Stats"/>
+  <img width="48%" src="https://streak-stats.demolab.com/?user=ahmelkholy&count_private=true&theme=transparent&border_radius=10" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
@@ -84,5 +90,5 @@ I'm actively seeking collaborators for a **Power System Analysis** project utili
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmelkholy&theme=onedark&row=1&column=6&margin-w=15" alt="GitHub Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmelkholy&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophy"/>
 </div>
