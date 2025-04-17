@@ -1,6 +1,6 @@
 # <div align="center">Ahmed Elkholy</div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ahmed%20Elkholy&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Power%20Systems%20Engineer%20|%20Researcher%20|%20Educator%20|%20PhD%20Candidate&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ahmed%20Elkholy&fontSize=80&animation=fadeIn&fontAlignY=38&desc=power%20systems%20engineer%20|%20researcher%20|%20educator%20|%20phd%20candidate&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
 > Power Systems Engineer | Researcher | Educator | PhD Candidate
