@@ -56,14 +56,17 @@ I'm actively seeking collaborators for a **Power System Analysis** project utili
 
 ### Academic & Professional Links
 
-- [Google Scholar](https://scholar.google.com/citations?user=KbZs8_AAAAAJ&hl=en)
-- [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-1834-1175)
-- [Scopus](https://scopus.com/authid/detail.uri?authorId=57202189065)
-- [ResearchGate](https://researchgate.net/profile/Ahmed-Elkholy-7)
-- [Zotero](https://zotero.org/ahmelkholy)
-- [SciProfiles](https://sciprofiles.com/profile/amelkholy)
-- [University Profile](https://tdb2.tanta.edu.eg/staff/ahmelkholy)
-- [Facebook](https://facebook.com/ahm.m.elkholy)
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=KbZs8_AAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://orcid.org/0000-0002-1834-1175"><img src="https://img.shields.io/badge/ORCID-339933?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=57202189065"><img src="https://img.shields.io/badge/Scopus-E25A1C?style=for-the-badge&logo=scopus&logoColor=white" alt="Scopus"/></a>
+  <a href="https://researchgate.net/profile/Ahmed-Elkholy-7"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
+  <a href="https://zotero.org/ahmelkholy"><img src="https://img.shields.io/badge/Zotero-44546A?style=for-the-badge&logo=zotero&logoColor=white" alt="Zotero"/></a>
+  <a href="https://sciprofiles.com/profile/amelkholy"><img src="https://img.shields.io/badge/SciProfiles-0A66C2?style=for-the-badge" alt="SciProfiles"/></a>
+  <a href="https://tdb2.tanta.edu.eg/staff/ahmelkholy"><img src="https://img.shields.io/badge/University_Profile-1976D2?style=for-the-badge&logo=university&logoColor=white" alt="University Profile"/></a>
+  <a href="https://facebook.com/ahm.m.elkholy"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.webofscience.com/wos/author/record/AAS-9757-2020"><img src="https://img.shields.io/badge/Web_of_Science-ResearcherID_AAS--9757--2020-003366?style=for-the-badge&logo=clarivate&logoColor=white" alt="Web of Science"/></a>
+</p>
 
 ## 💻 GitHub Stats
 
