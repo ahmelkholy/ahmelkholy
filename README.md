@@ -1,6 +1,6 @@
 # <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Ahmed+Elkholy;PhD+Student+%40+MPEI;MSE+in+Power+Systems;FACTS+%26+Industrial+Protection+Expert;MATLAB+%7C+Python+%7C+C+%7C+R+%7C+STM32" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Ahmed+Elkholy;PhD+Student+%40+MPEI" alt="Typing SVG" />
 </div>
 
 > PhD, MSE in Power Systems Engineering | Researcher & Author | Expert in FACTS, Industrial Protection & Decarbonization | Software Developer (MATLAB, Python, C, R, STM32)
