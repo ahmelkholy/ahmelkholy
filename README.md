@@ -1,6 +1,6 @@
-# <div align="center">Ahmed Elkholy</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ahmed%20Elkholy&fontSize=80&animation=fadeIn&fontAlignY=38&desc=power%20systems%20engineer%20|%20researcher%20|%20educator%20|%20phd%20candidate&descAlignY=51&descAlign=62" width="100%"/>
+# <div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Ahmed+Elkholy;Power+Systems+Engineer;Researcher+%26+Educator;PhD+Candidate+%40+MPEI" alt="Typing SVG" />
 </div>
 
 > Power Systems Engineer | Researcher | Educator | PhD Candidate
@@ -73,15 +73,15 @@ timeline
   <br>
   <div align="center">
 
-  | Skill | Proficiency |
-  |-------|------------|
-  | MATLAB | ⭐⭐⭐⭐⭐ |
-  | Power Systems Analysis | ⭐⭐⭐⭐⭐ |
-  | Grid Synchronization | ⭐⭐⭐⭐⭐ |
-  | Python | ⭐⭐⭐⭐ |
-  | Power Electronics | ⭐⭐⭐⭐ |
-  | LaTeX | ⭐⭐⭐⭐ |
-  | PLC Programming | ⭐⭐⭐ |
+| Skill                  | Proficiency |
+| ---------------------- | ----------- |
+| MATLAB                 | ⭐⭐⭐⭐⭐  |
+| Power Systems Analysis | ⭐⭐⭐⭐⭐  |
+| Grid Synchronization   | ⭐⭐⭐⭐⭐  |
+| Python                 | ⭐⭐⭐⭐    |
+| Power Electronics      | ⭐⭐⭐⭐    |
+| LaTeX                  | ⭐⭐⭐⭐    |
+| PLC Programming        | ⭐⭐⭐      |
 
   </div>
 </details>
@@ -110,17 +110,22 @@ timeline
   <summary><b>📂 Project Details</b></summary>
   <br>
 
-  ### Adaptive PLL Systems
-  An advanced implementation of phase-locked loop algorithms specifically designed for grid-connected inverters in renewable energy applications. The system adapts to varying grid conditions and ensures stable synchronization.
+### Adaptive PLL Systems
 
-  ### Power System Analysis Tools
-  A comprehensive suite of tools developed in MATLAB and Python for conducting power flow studies, stability analysis, fault calculations, and optimal power flow. The libraries offer user-friendly interfaces and visualization capabilities.
+An advanced implementation of phase-locked loop algorithms specifically designed for grid-connected inverters in renewable energy applications. The system adapts to varying grid conditions and ensures stable synchronization.
 
-  ### Educational Resources
-  A collection of technical tutorials, simulation models, and instructional materials designed for undergraduate and graduate students in power engineering. Resources cover fundamental concepts to advanced topics.
+### Power System Analysis Tools
 
-  ### Distributed Generation Models
-  Detailed simulation models for studying the integration of renewable energy sources with existing grid infrastructure. Models account for intermittency, power quality issues, and control strategies.
+A comprehensive suite of tools developed in MATLAB and Python for conducting power flow studies, stability analysis, fault calculations, and optimal power flow. The libraries offer user-friendly interfaces and visualization capabilities.
+
+### Educational Resources
+
+A collection of technical tutorials, simulation models, and instructional materials designed for undergraduate and graduate students in power engineering. Resources cover fundamental concepts to advanced topics.
+
+### Distributed Generation Models
+
+Detailed simulation models for studying the integration of renewable energy sources with existing grid infrastructure. Models account for intermittency, power quality issues, and control strategies.
+
 </details>
 
 ## 🎖️ Achievements & Certifications
@@ -187,31 +192,87 @@ I'm actively seeking collaborators for a **Power System Analysis** project utili
   <a href="https://www.webofscience.com/wos/author/record/AAS-9757-2020"><img src="https://img.shields.io/badge/Web_of_Science-ResearcherID_AAS--9757--2020-003366?style=for-the-badge&logo=clarivate&logoColor=white" alt="Web of Science"/></a>
 </div>
 
-## 💻 GitHub Stats
+## 🌟 Dynamic Status
+
+> Last updated: 🌅 May 26, 2025 at 13:13 (Cairo Time)
+
+**💡 Quote of the moment:** _"Engineering is the art of directing the great sources of power in nature for the use and convenience of man. - Thomas Tredgold"_
+
+**📊 GitHub Stats:** Dynamic tracking active • Professional academic presence maintained
+
+**🔄 Latest Activity:** Enhancing profile with ultimate automation features
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ahmelkholy&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img width="390" src="https://streak-stats.demolab.com/?user=ahmelkholy&count_private=true&theme=tokyonight&border_radius=10&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://img.shields.io/badge/Publications-15+-blue?style=for-the-badge" alt="Publications"/>
+  <img src="https://img.shields.io/badge/Citations-100+-green?style=for-the-badge" alt="Citations"/>
+  <img src="https://img.shields.io/badge/H--Index-5-orange?style=for-the-badge" alt="H-Index"/>
+  <img src="https://img.shields.io/badge/Last_Updated-May_2025-purple?style=for-the-badge" alt="Last Updated"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmelkholy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&custom_title=Languages" height="150" alt="Languages Graph"/>
-</div>
+## 🌟 Research Impact Visualization
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmelkholy&theme=tokyonight" alt="GitHub Profile Summary Card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmelkholy&repo=power-systems-analysis&theme=tokyonight&hide_border=true" alt="Featured Research Project" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmelkholy&theme=tokyonight&row=1&column=6&margin-w=15&no-frame=true" alt="GitHub Trophy"/>
-</div>
+**🔬 Research Domains:**
+
+```
+Grid Synchronization     ████████████████████ 100%
+Power Electronics       ████████████████░░░░  80%
+Renewable Integration   ████████████████░░░░  80%
+Control Systems         ████████████░░░░░░░░  60%
+AI in Power Systems     ████████░░░░░░░░░░░░  40%
+```
+
+**📊 Academic Network:**
+
+- 🇪🇬 **Local:** Tanta University collaboration network
+- 🇷🇺 **International:** MPEI research partnerships
+- 🌍 **Global:** IEEE and international conferences
+- 🤝 **Industry:** Power system consulting projects
+
+## 🤝 Research Collaboration Network
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmelkholy&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+**🎓 Academic Partnerships:**
+
+| Institution                  | Collaboration Type   | Focus Area              |
+| ---------------------------- | -------------------- | ----------------------- |
+| 🇪🇬 Tanta University          | Home Institution     | Power Systems Teaching  |
+| 🇷🇺 MPEI Moscow               | PhD Research         | Grid Synchronization    |
+| 🌍 IEEE Community            | Professional Network | Conference Publications |
+| 🔬 International Researchers | Joint Publications   | Distributed Generation  |
+
 </div>
+
+**🌟 Open to Collaborate On:**
+
+- 🔌 Grid modernization projects
+- 🌱 Renewable energy integration
+- 🤖 AI applications in power systems
+- 📚 Educational resource development
+- 🏭 Industrial consulting projects
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer Wave Animation"/>
 </div>
+
+<!-- Mobile Responsive & Enhanced Styling -->
+<style>
+@media (max-width: 768px) {
+  img[src*="capsule-render"] {
+    width: 100% !important;
+    height: auto !important;
+  }
+  .github-stats img {
+    width: 100% !important;
+    max-width: 350px !important;
+  }
+}
+</style>
+
+<!-- filepath: c:\Users\ahm_e\ahmelkholy\README.md -->

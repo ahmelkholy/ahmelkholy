@@ -1,0 +1,374 @@
+name: 📋 Issue Templates Generator
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate-templates:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: 📥 Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: 📁 Create Issue Templates Directory
+      run: |
+        mkdir -p .github/ISSUE_TEMPLATE
+
+    - name: 🤝 Create Collaboration Template
+      run: |
+        cat > .github/ISSUE_TEMPLATE/collaboration.md << 'EOF'
+---
+name: 🤝 Research Collaboration
+about: Propose a research collaboration or joint project
+title: '[COLLABORATION] '
+labels: 'collaboration, research'
+assignees: 'ahmelkholy'
+---
+
+## 🎯 Collaboration Proposal
+
+**Research Area:**
+<!-- e.g., Grid Synchronization, Power Electronics, Renewable Energy -->
+
+**Collaboration Type:**
+- [ ] Joint Research Project
+- [ ] Paper Co-authoring
+- [ ] Conference Presentation
+- [ ] Academic Exchange
+- [ ] Industry Project
+- [ ] Other: ____________
+
+## 📋 Project Details
+
+**Objective:**
+<!-- Describe the main goal of the collaboration -->
+
+**Your Background:**
+<!-- Brief description of your expertise and institution -->
+
+**Timeline:**
+<!-- Expected duration and key milestones -->
+
+**Resources Available:**
+<!-- What you can contribute (expertise, data, equipment, funding) -->
+
+## 🎓 Academic Information
+
+**Institution/Organization:**
+**Position/Role:**
+**Research Interests:**
+**Previous Publications (optional):**
+
+## 📞 Contact Information
+
+**Preferred Contact Method:**
+- [ ] Email
+- [ ] LinkedIn
+- [ ] Academic platform
+- [ ] Video call
+
+**Best Time to Connect:**
+<!-- Time zone and preferred hours -->
+
+## 💡 Additional Information
+
+<!-- Any other relevant details about the proposed collaboration -->
+
+---
+*Thank you for your interest in collaboration! I'll review your proposal and get back to you soon.*
+EOF
+
+    - name: 📚 Create Resource Request Template
+      run: |
+        cat > .github/ISSUE_TEMPLATE/resource-request.md << 'EOF'
+---
+name: 📚 Academic Resource Request
+about: Request educational materials, code, or research resources
+title: '[RESOURCE] '
+labels: 'resource-request, education'
+assignees: 'ahmelkholy'
+---
+
+## 📚 Resource Request
+
+**Resource Type:**
+- [ ] MATLAB Code/Scripts
+- [ ] Python Libraries
+- [ ] Simulation Models
+- [ ] Research Papers
+- [ ] Educational Materials
+- [ ] Lecture Notes
+- [ ] Project Templates
+- [ ] Other: ____________
+
+## 🎯 Specific Request
+
+**Topic/Subject:**
+<!-- e.g., Grid Synchronization, PLL Design, Power Flow Analysis -->
+
+**Level:**
+- [ ] Undergraduate
+- [ ] Graduate
+- [ ] Research Level
+- [ ] Professional
+
+**Description:**
+<!-- Detailed description of what you're looking for -->
+
+## 📋 Purpose
+
+**Intended Use:**
+- [ ] Academic Research
+- [ ] Course Project
+- [ ] Thesis/Dissertation
+- [ ] Teaching
+- [ ] Professional Development
+- [ ] Other: ____________
+
+**Institution/Organization:**
+**Course/Project Name (if applicable):**
+
+## ⏰ Timeline
+
+**Needed By:**
+**Urgency Level:**
+- [ ] High (within a week)
+- [ ] Medium (within a month)
+- [ ] Low (flexible)
+
+## 💡 Additional Context
+
+**Background:**
+<!-- Your current level of knowledge in the topic -->
+
+**Specific Challenges:**
+<!-- What specific problems are you trying to solve? -->
+
+**Platform Preference:**
+- [ ] MATLAB
+- [ ] Python
+- [ ] Simulink
+- [ ] Other: ____________
+
+---
+*I'll do my best to provide helpful resources or point you in the right direction!*
+EOF
+
+    - name: 🐛 Create Bug Report Template
+      run: |
+        cat > .github/ISSUE_TEMPLATE/bug-report.md << 'EOF'
+---
+name: 🐛 Bug Report
+about: Report an issue with code, documentation, or profile content
+title: '[BUG] '
+labels: 'bug'
+assignees: 'ahmelkholy'
+---
+
+## 🐛 Bug Description
+
+**What happened:**
+<!-- Clear description of the bug -->
+
+**Expected behavior:**
+<!-- What you expected to happen -->
+
+**Location:**
+- [ ] README.md content
+- [ ] Code repository
+- [ ] Documentation
+- [ ] Links/URLs
+- [ ] Other: ____________
+
+## 🔍 Steps to Reproduce
+
+1.
+2.
+3.
+
+## 📱 Environment
+
+**Browser/Platform:**
+**Device:**
+**Additional Context:**
+
+## 📸 Screenshots
+
+<!-- If applicable, add screenshots to help explain the problem -->
+
+---
+*Thank you for helping improve the quality of this profile and resources!*
+EOF
+
+    - name: ✨ Create Feature Request Template
+      run: |
+        cat > .github/ISSUE_TEMPLATE/feature-request.md << 'EOF'
+---
+name: ✨ Feature Request
+about: Suggest new content, tools, or improvements
+title: '[FEATURE] '
+labels: 'enhancement'
+assignees: 'ahmelkholy'
+---
+
+## ✨ Feature Request
+
+**Feature Type:**
+- [ ] New educational content
+- [ ] Code/tool improvement
+- [ ] Profile enhancement
+- [ ] New research area coverage
+- [ ] Documentation improvement
+- [ ] Other: ____________
+
+## 🎯 Description
+
+**What would you like to see added or improved?**
+<!-- Clear description of the requested feature -->
+
+**Why would this be valuable?**
+<!-- Explain the benefits for the community -->
+
+## 💡 Proposed Implementation
+
+**How do you envision this working?**
+<!-- Any ideas on how this could be implemented -->
+
+**Examples or References:**
+<!-- Links to similar implementations or examples -->
+
+## 👥 Target Audience
+
+**Who would benefit from this?**
+- [ ] Students
+- [ ] Researchers
+- [ ] Professionals
+- [ ] Educators
+- [ ] General public
+
+**Skill Level:**
+- [ ] Beginner
+- [ ] Intermediate
+- [ ] Advanced
+- [ ] All levels
+
+## 📋 Additional Context
+
+**Priority Level:**
+- [ ] High
+- [ ] Medium
+- [ ] Low
+
+**Effort Estimate:**
+- [ ] Small (few hours)
+- [ ] Medium (few days)
+- [ ] Large (weeks/months)
+
+---
+*Thank you for your suggestion! I appreciate ideas for making this profile and content more valuable.*
+EOF
+
+    - name: 📊 Create Discussion Config
+      run: |
+        cat > .github/DISCUSSION_TEMPLATE.yml << 'EOF'
+labels:
+  - discussion
+
+categories:
+  research-topics:
+    title: "🔬 Research Topics"
+    description: "Discuss power systems research, current trends, and academic topics"
+
+  academic-advice:
+    title: "🎓 Academic Advice"
+    description: "Seek or share advice about academic career, PhD journey, research strategies"
+
+  technical-help:
+    title: "⚡ Technical Help"
+    description: "Get help with MATLAB, Python, power systems analysis, or simulation tools"
+
+  collaboration-ideas:
+    title: "🤝 Collaboration Ideas"
+    description: "Brainstorm potential research collaborations and project ideas"
+
+  general:
+    title: "💬 General Discussion"
+    description: "General discussions about engineering, education, or career development"
+EOF
+
+    - name: 📄 Create Pull Request Template
+      run: |
+        cat > .github/pull_request_template.md << 'EOF'
+## 📋 Pull Request Description
+
+**Type of Change:**
+- [ ] 📚 Content update (documentation, README improvements)
+- [ ] 🐛 Bug fix (correction of errors or issues)
+- [ ] ✨ New feature (new content or functionality)
+- [ ] 🎨 Style/format improvements
+- [ ] 🔧 Configuration/workflow updates
+
+## 🎯 Summary
+
+<!-- Brief description of changes made -->
+
+## 📝 Detailed Changes
+
+### Modified Files:
+-
+-
+
+### Key Updates:
+-
+-
+
+## ✅ Checklist
+
+- [ ] Content is accurate and well-researched
+- [ ] Formatting follows existing style
+- [ ] Links are working and valid
+- [ ] No spelling or grammar errors
+- [ ] Changes enhance user experience
+- [ ] Academic/professional standards maintained
+
+## 📸 Screenshots (if applicable)
+
+<!-- If your changes affect visual appearance -->
+
+## 🎓 Academic Impact
+
+**Does this change affect:**
+- [ ] Research information accuracy
+- [ ] Educational content quality
+- [ ] Professional presentation
+- [ ] Academic credibility
+
+## 💡 Additional Notes
+
+<!-- Any additional context, considerations, or future improvements -->
+
+---
+*Thank you for contributing to this academic profile! Your improvements help enhance the research and educational community.*
+EOF
+
+    - name: 🔄 Commit Templates
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "Template Generator Bot"
+        git add .
+        git commit -m "📋 Generate comprehensive issue and PR templates
+
+        ✨ Created templates for:
+        - 🤝 Research collaboration
+        - 📚 Resource requests
+        - 🐛 Bug reports
+        - ✨ Feature requests
+        - 💬 Discussion categories
+        - 📄 Pull request guidelines
+
+        🤖 Auto-generated for better community engagement"
+        git push
+        echo "✅ Issue templates created successfully!"
