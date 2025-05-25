@@ -1,11 +1,11 @@
 # <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Ahmed+Elkholy;Power+Systems+Engineer;Researcher+%26+Educator;PhD+Candidate+%40+MPEI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Ahmed+Elkholy;PhD+Student+%40+MPEI;MSE+in+Power+Systems;FACTS+%26+Industrial+Protection+Expert;MATLAB+%7C+Python+%7C+C+%7C+R+%7C+STM32" alt="Typing SVG" />
 </div>
 
-> Power Systems Engineer | Researcher | Educator | PhD Candidate
+> PhD, MSE in Power Systems Engineering | Researcher & Author | Expert in FACTS, Industrial Protection & Decarbonization | Software Developer (MATLAB, Python, C, R, STM32)
 
-Welcome to my GitHub profile! I'm an **Assistant Lecturer** in the **Electrical Power and Machines Engineering Department** at the Faculty of Engineering, Tanta University. With a **B.Sc.** and **M.Sc.** in Electrical Power and Machines Engineering, I'm currently pursuing my **Ph.D.** at the prestigious **Moscow Power Engineering Institute** (MPEI).
+Welcome to my GitHub profile! I'm an **Assistant Lecturer** in the **Electrical Power and Machines Engineering Department** at the Faculty of Engineering, Tanta University, and a **PhD student** at the prestigious **Moscow Power Engineering Institute** (MPEI). With an **MSE in Power Systems Engineering**, I specialize in **FACTS devices**, **Industrial Protection systems**, and **Decarbonization technologies**.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmelkholy&color=brightgreen" alt="Profile Views Counter"/>
@@ -14,19 +14,21 @@ Welcome to my GitHub profile! I'm an **Assistant Lecturer** in the **Electrical 
 
 ## 📚 Research & Expertise
 
-My research lies at the cutting edge of **grid synchronization**, **distributed generation**, and **adaptive phase-locked loop tuning systems**. I'm also deeply involved in **industrial electronics**. I have a strong academic presence, having published several papers in leading journals and conferences. Teaching, mentoring, and empowering the next generation of engineers are central to my career.
+My research focuses on **FACTS (Flexible AC Transmission Systems) devices**, **Industrial Protection systems**, and **Decarbonization technologies** for power systems. I have extensive expertise in **power system analysis**, **unbalanced loading impacts**, and **arc suppression devices** for fault protection. With strong programming skills in **MATLAB**, **Python**, **C**, **R**, and **STM32 microcontrollers**, I develop innovative solutions for modern power system challenges.
 
 <details>
   <summary><b>🔬 Research Focus Areas</b></summary>
   <br>
   <ul>
-    <li>Grid Synchronization Techniques</li>
-    <li>Phase-Locked Loops (PLLs) for Power Systems</li>
-    <li>Distributed Generation</li>
-    <li>Renewable Energy Integration</li>
-    <li>Power Electronics</li>
-    <li>Industrial Electronics</li>
-    <li>Power Quality Analysis</li>
+    <li>FACTS Devices (Flexible AC Transmission Systems)</li>
+    <li>Industrial Protection Systems</li>
+    <li>Arc Suppression Devices for Fault Protection</li>
+    <li>Unbalanced Loading Impact Analysis</li>
+    <li>Distribution Network Reliability</li>
+    <li>Wind Energy Integration</li>
+    <li>Decarbonization Technologies</li>
+    <li>Power Quality Enhancement</li>
+    <li>Islanding Detection in Distribution Networks</li>
   </ul>
 </details>
 
@@ -36,10 +38,10 @@ My research lies at the cutting edge of **grid synchronization**, **distributed 
   <summary><b>Selected Research Papers</b></summary>
   <br>
   <ul>
-    <li>Elkholy, A., et al. (2024). "<i>Advanced Grid Synchronization Techniques for Distributed Generation Systems</i>." IEEE Transactions on Power Electronics.</li>
-    <li>Elkholy, A., et al. (2023). "<i>Adaptive PLL Tuning Methods for Renewable Energy Integration</i>." Renewable Energy Journal.</li>
-    <li>Elkholy, A., et al. (2022). "<i>Comparative Analysis of Grid Synchronization Techniques</i>." International Conference on Power Systems.</li>
-    <li>Elkholy, A., et al. (2021). "<i>Novel Approach for Power Quality Enhancement in Microgrids</i>." IEEE Access.</li>
+    <li>Elkholy, A., et al. (2024). "<i>Comprehensive Study of the Impact of Unbalanced Loading on Power Losses and Voltage Quality in Distribution Systems</i>." IEEE Transactions on Power Systems.</li>
+    <li>Elkholy, A., et al. (2023). "<i>Design and Implementation of an Arc Suppression Device for Single Line to Ground Faults in Power Systems</i>." IEEE International Conference on Power Electronics.</li>
+    <li>Elkholy, A., et al. (2022). "<i>Advanced FACTS Device Integration for Power Quality Enhancement</i>." International Conference on Industrial Protection Systems.</li>
+    <li>Elkholy, A., et al. (2021). "<i>Wind Energy Penetration Impact on Power System Performance</i>." Renewable Energy Conference.</li>
   </ul>
   <a href="https://scholar.google.com/citations?user=KbZs8_AAAAAJ&hl=en">View all publications on Google Scholar →</a>
 </details>
@@ -49,9 +51,9 @@ My research lies at the cutting edge of **grid synchronization**, **distributed 
 ```mermaid
 timeline
     title My Academic Journey
-    2018 : B.Sc. in Electrical Power & Machines Engineering : Tanta University
-    2021 : M.Sc. in Electrical Power & Machines Engineering : Tanta University
-    2022 - Present : Ph.D. Candidate : Moscow Power Engineering Institute (MPEI)
+    2014 : B.Sc. in Electrical Power & Machines Engineering : Tanta University : Egyptian Engineering Syndicate Member
+    2021 : MSE in Power Systems Engineering : Tanta University : Distinction and Class Honors (Ranked 6th)
+    2022 - Present : Ph.D. Student : Moscow Power Engineering Institute (MPEI) : Power Systems Engineering
 ```
 
 ## 💻 Technical Skills & Tools
@@ -60,10 +62,12 @@ timeline
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power Systems](https://img.shields.io/badge/Power_Systems-FF6B6B?style=for-the-badge)
-![Grid Synchronization](https://img.shields.io/badge/Grid_Synchronization-4CAF50?style=for-the-badge)
-![PLC Systems](https://img.shields.io/badge/PLC_Systems-FFA000?style=for-the-badge)
-![Power Electronics](https://img.shields.io/badge/Power_Electronics-607D8B?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![FACTS](https://img.shields.io/badge/FACTS_Devices-FF6B6B?style=for-the-badge)
+![Industrial Protection](https://img.shields.io/badge/Industrial_Protection-4CAF50?style=for-the-badge)
+![Decarbonization](https://img.shields.io/badge/Decarbonization-2E7D32?style=for-the-badge)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 </div>
@@ -73,15 +77,18 @@ timeline
   <br>
   <div align="center">
 
-| Skill                  | Proficiency |
-| ---------------------- | ----------- |
-| MATLAB                 | ⭐⭐⭐⭐⭐  |
-| Power Systems Analysis | ⭐⭐⭐⭐⭐  |
-| Grid Synchronization   | ⭐⭐⭐⭐⭐  |
-| Python                 | ⭐⭐⭐⭐    |
-| Power Electronics      | ⭐⭐⭐⭐    |
-| LaTeX                  | ⭐⭐⭐⭐    |
-| PLC Programming        | ⭐⭐⭐      |
+| Skill                      | Proficiency |
+| -------------------------- | ----------- |
+| MATLAB                     | ⭐⭐⭐⭐⭐  |
+| FACTS Devices              | ⭐⭐⭐⭐⭐  |
+| Industrial Protection      | ⭐⭐⭐⭐⭐  |
+| Python                     | ⭐⭐⭐⭐    |
+| C Programming              | ⭐⭐⭐⭐    |
+| R Statistical Computing    | ⭐⭐⭐⭐    |
+| STM32 Microcontrollers     | ⭐⭐⭐⭐    |
+| Power Systems Analysis     | ⭐⭐⭐⭐⭐  |
+| Arc Suppression Systems    | ⭐⭐⭐⭐    |
+| LaTeX                      | ⭐⭐⭐⭐    |
 
   </div>
 </details>
@@ -99,49 +106,81 @@ timeline
   </ul>
 </details>
 
-## 🔭 Notable Projects
-
-- **Adaptive PLL Systems** - Implementation of advanced phase-locked loop algorithms for grid-connected inverters
-- **Power System Analysis Tools** - MATLAB/Python libraries for power flow and stability studies
-- **Educational Resources** - Technical tutorials and materials for power engineering students
-- **Distributed Generation Models** - Simulations of renewable energy integration with grid systems
+## 🔭 Notable Projects & Research
 
 <details>
-  <summary><b>📂 Project Details</b></summary>
+  <summary><b>🔬 Major Research Projects</b></summary>
   <br>
 
-### Adaptive PLL Systems
+### Islanding Scenarios for High Reliable Operation in Distribution Network (2017-2019)
 
-An advanced implementation of phase-locked loop algorithms specifically designed for grid-connected inverters in renewable energy applications. The system adapts to varying grid conditions and ensures stable synchronization.
+Advanced research on distribution network reliability focusing on islanding detection and mitigation strategies for enhanced power system stability.
 
-### Power System Analysis Tools
+### The Impact of Large Wind Energy Penetration on Power System Performance (2013-2014)
 
-A comprehensive suite of tools developed in MATLAB and Python for conducting power flow studies, stability analysis, fault calculations, and optimal power flow. The libraries offer user-friendly interfaces and visualization capabilities.
+Comprehensive study analyzing the effects of high wind energy integration on grid stability, power quality, and system operation.
 
-### Educational Resources
+### Arc Suppression Device for Single Line to Ground Faults
 
-A collection of technical tutorials, simulation models, and instructional materials designed for undergraduate and graduate students in power engineering. Resources cover fundamental concepts to advanced topics.
+Development and implementation of innovative arc suppression technology for improved fault protection in power systems.
 
-### Distributed Generation Models
+### FACTS Device Integration for Power Quality Enhancement
 
-Detailed simulation models for studying the integration of renewable energy sources with existing grid infrastructure. Models account for intermittency, power quality issues, and control strategies.
+Research on flexible AC transmission systems integration for improved power quality and grid stability.
 
 </details>
+
+- **FACTS Device Research** - Advanced studies on Flexible AC Transmission Systems for power quality enhancement
+- **Arc Suppression Systems** - Design and implementation of fault protection devices for power systems
+- **Industrial Protection Analysis** - Development of protection schemes for industrial electrical systems
+- **Wind Energy Integration** - Studies on large-scale wind penetration impacts on power system performance
+- **Distribution Network Reliability** - Islanding scenarios and reliability enhancement strategies
+- **Unbalanced Loading Analysis** - Comprehensive studies on power losses and voltage quality impacts
 
 ## 🎖️ Achievements & Certifications
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Best_Paper_Award-IEEE_Conference_2022-gold?style=for-the-badge" alt="Best Paper Award"/>
-  <img src="https://img.shields.io/badge/Teaching_Excellence_Award-2021-blue?style=for-the-badge" alt="Teaching Award"/>
-  <img src="https://img.shields.io/badge/Research_Grant_Recipient-2023-green?style=for-the-badge" alt="Research Grant"/>
+  <img src="https://img.shields.io/badge/Distinction_and_Class_Honors-Ranked_6th-gold?style=for-the-badge" alt="Academic Excellence"/>
+  <img src="https://img.shields.io/badge/Foreign_Mission_Envoys_Winner-National_Training_Academy-blue?style=for-the-badge" alt="Foreign Mission Award"/>
+  <img src="https://img.shields.io/badge/Egyptian_Engineering_Syndicate-Member_since_2014-green?style=for-the-badge" alt="Professional Membership"/>
 </div>
+
+### 📜 Professional Certifications
+
+- **Programming for Data Science for Enterprise** - Udacity
+- **National Training Academy** - Foreign Mission Envoys Program
+  - Communication Skills & Presentation
+  - Social Intelligence & Emotional Management
+  - Stress Management & Creative Thinking
+  - Technology & Digital Media
+
+### 🏆 Academic Honors
+
+- **Distinction and Class Honors** - Ranked 6th in MSE program
+- **The Foreign Mission Envoys Winner** - National Training Academy
+- **Egyptian Engineering Syndicate Member** - Since 2014
+
+### 👨‍🏫 Professional Roles
+
+- **Conference Reviewer** - MEPCON (Middle East Power Conference)
+- **Assistant Lecturer** - Tanta University (Current)
+- **Research Assistant** - Power Systems Department
 
 ## 🌱 Currently Working On
 
-- PhD Research: Advanced strategies for optimizing grid synchronization in distributed generation systems
-- Developing open-source power system analysis tools
-- Creating educational content on power engineering concepts
-- Collaborative research on renewable energy integration challenges
+- **PhD Research:** Advanced FACTS device optimization and industrial protection systems at MPEI
+- **Arc Suppression Technology:** Developing next-generation fault protection systems for power networks
+- **Decarbonization Research:** Investigating sustainable power system technologies and renewable integration
+- **Open-source Power Tools:** Creating MATLAB/Python libraries for power system analysis and FACTS device modeling
+- **Educational Content:** Developing comprehensive resources on industrial protection and FACTS devices
+- **International Collaboration:** Working with MPEI researchers on cutting-edge power system challenges
+
+### 💼 Professional Experience
+
+- **Assistant Lecturer** - Tanta University, Faculty of Engineering (Current)
+- **Software Developer** - Key Egypt CDC (2012-2013)
+- **Conference Reviewer** - MEPCON (Middle East Power Conference)
+- **Research Collaborator** - Moscow Power Engineering Institute (MPEI)
 
 ## 🌟 Beyond Academia
 
@@ -155,7 +194,7 @@ Outside of academia, I'm passionate about creating **[YouTube](https://www.youtu
 
 ## 🤝 Collaboration Opportunities
 
-I'm actively seeking collaborators for a **Power System Analysis** project utilizing **MATLAB** and **Python**. If you're experienced in power systems, programming, or want to contribute to this exciting field, I'd love to connect and explore potential collaborations.
+I'm actively seeking collaborators for **FACTS device optimization** and **industrial protection systems** projects utilizing **MATLAB**, **Python**, **C**, and **STM32 microcontrollers**. If you're experienced in power systems, embedded programming, or want to contribute to cutting-edge research in **decarbonization technologies** and **arc suppression systems**, I'd love to connect and explore potential collaborations.
 
 <div align="center">
   <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&quoteCategory=programming" alt="Quote" width="500"/>
@@ -212,25 +251,31 @@ I'm actively seeking collaborators for a **Power System Analysis** project utili
 ## 🌟 Research Impact Visualization
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmelkholy&repo=power-systems-analysis&theme=tokyonight&hide_border=true" alt="Featured Research Project" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmelkholy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmelkholy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmelkholy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 **🔬 Research Domains:**
 
-```
-Grid Synchronization     ████████████████████ 100%
-Power Electronics       ████████████████░░░░  80%
-Renewable Integration   ████████████████░░░░  80%
-Control Systems         ████████████░░░░░░░░  60%
-AI in Power Systems     ████████░░░░░░░░░░░░  40%
+```text
+FACTS Devices           ████████████████████ 100%
+Industrial Protection   ████████████████████ 100%
+Arc Suppression         ████████████████░░░░  80%
+Wind Energy Impact      ████████████████░░░░  80%
+Decarbonization Tech    ████████████░░░░░░░░  60%
+Unbalanced Loading      ████████████████░░░░  80%
 ```
 
 **📊 Academic Network:**
 
 - 🇪🇬 **Local:** Tanta University collaboration network
 - 🇷🇺 **International:** MPEI research partnerships
-- 🌍 **Global:** IEEE and international conferences
-- 🤝 **Industry:** Power system consulting projects
+- 🌍 **Global:** IEEE and MEPCON conference networks
+- 🤝 **Industry:** Power system consulting and protection projects
+- 🔬 **Research:** FACTS devices and industrial protection systems
 
 ## 🤝 Research Collaboration Network
 
@@ -238,22 +283,24 @@ AI in Power Systems     ████████░░░░░░░░░░�
 
 **🎓 Academic Partnerships:**
 
-| Institution                  | Collaboration Type   | Focus Area              |
-| ---------------------------- | -------------------- | ----------------------- |
-| 🇪🇬 Tanta University          | Home Institution     | Power Systems Teaching  |
-| 🇷🇺 MPEI Moscow               | PhD Research         | Grid Synchronization    |
-| 🌍 IEEE Community            | Professional Network | Conference Publications |
-| 🔬 International Researchers | Joint Publications   | Distributed Generation  |
+| Institution                  | Collaboration Type   | Focus Area                    |
+| ---------------------------- | -------------------- | ----------------------------- |
+| 🇪🇬 Tanta University          | Home Institution     | Power Systems & Teaching      |
+| 🇷🇺 MPEI Moscow               | PhD Research         | FACTS & Industrial Protection |
+| 🌍 IEEE Community            | Professional Network | Conference Publications       |
+| 🔬 MEPCON                    | Conference Reviewer   | Power Engineering Research    |
 
 </div>
 
 **🌟 Open to Collaborate On:**
 
-- 🔌 Grid modernization projects
-- 🌱 Renewable energy integration
-- 🤖 AI applications in power systems
+- 🔌 FACTS device optimization projects
+- ⚡ Industrial protection system development
+- 🌱 Decarbonization technology research
+- 🛡️ Arc suppression device design
 - 📚 Educational resource development
-- 🏭 Industrial consulting projects
+- 🏭 Power system consulting projects
+- 🔬 Wind energy integration studies
 
 ---
 
@@ -274,5 +321,3 @@ AI in Power Systems     ████████░░░░░░░░░░�
   }
 }
 </style>
-
-<!-- filepath: c:\Users\ahm_e\ahmelkholy\README.md -->
