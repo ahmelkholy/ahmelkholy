@@ -197,7 +197,7 @@ Outside of academia, I'm passionate about creating **[YouTube](https://www.youtu
 I'm actively seeking collaborators for **FACTS device optimization** and **industrial protection systems** projects utilizing **MATLAB**, **Python**, **C**, and **STM32 microcontrollers**. If you're experienced in power systems, embedded programming, or want to contribute to cutting-edge research in **decarbonization technologies** and **arc suppression systems**, I'd love to connect and explore potential collaborations.
 
 <div align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&quoteCategory=programming" alt="Quote" width="500"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
 </div>
 
 ## 🌐 Languages
