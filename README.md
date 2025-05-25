@@ -77,18 +77,18 @@ timeline
   <br>
   <div align="center">
 
-| Skill                      | Proficiency |
-| -------------------------- | ----------- |
-| MATLAB                     | ⭐⭐⭐⭐⭐  |
-| FACTS Devices              | ⭐⭐⭐⭐⭐  |
-| Industrial Protection      | ⭐⭐⭐⭐⭐  |
-| Python                     | ⭐⭐⭐⭐    |
-| C Programming              | ⭐⭐⭐⭐    |
-| R Statistical Computing    | ⭐⭐⭐⭐    |
-| STM32 Microcontrollers     | ⭐⭐⭐⭐    |
-| Power Systems Analysis     | ⭐⭐⭐⭐⭐  |
-| Arc Suppression Systems    | ⭐⭐⭐⭐    |
-| LaTeX                      | ⭐⭐⭐⭐    |
+| Skill                   | Proficiency |
+| ----------------------- | ----------- |
+| MATLAB                  | ⭐⭐⭐⭐⭐  |
+| FACTS Devices           | ⭐⭐⭐⭐⭐  |
+| Industrial Protection   | ⭐⭐⭐⭐⭐  |
+| Python                  | ⭐⭐⭐⭐    |
+| C Programming           | ⭐⭐⭐⭐    |
+| R Statistical Computing | ⭐⭐⭐⭐    |
+| STM32 Microcontrollers  | ⭐⭐⭐⭐    |
+| Power Systems Analysis  | ⭐⭐⭐⭐⭐  |
+| Arc Suppression Systems | ⭐⭐⭐⭐    |
+| LaTeX                   | ⭐⭐⭐⭐    |
 
   </div>
 </details>
@@ -283,12 +283,12 @@ Unbalanced Loading      ████████████████░░�
 
 **🎓 Academic Partnerships:**
 
-| Institution                  | Collaboration Type   | Focus Area                    |
-| ---------------------------- | -------------------- | ----------------------------- |
-| 🇪🇬 Tanta University          | Home Institution     | Power Systems & Teaching      |
-| 🇷🇺 MPEI Moscow               | PhD Research         | FACTS & Industrial Protection |
-| 🌍 IEEE Community            | Professional Network | Conference Publications       |
-| 🔬 MEPCON                    | Conference Reviewer   | Power Engineering Research    |
+| Institution         | Collaboration Type   | Focus Area                    |
+| ------------------- | -------------------- | ----------------------------- |
+| 🇪🇬 Tanta University | Home Institution     | Power Systems & Teaching      |
+| 🇷🇺 MPEI Moscow      | PhD Research         | FACTS & Industrial Protection |
+| 🌍 IEEE Community   | Professional Network | Conference Publications       |
+| 🔬 MEPCON           | Conference Reviewer  | Power Engineering Research    |
 
 </div>
 
