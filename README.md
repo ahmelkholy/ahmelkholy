@@ -1,10 +1,12 @@
 # <div align="center">
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Ahmed+Elkholy;PhD+Student+%40+MPEI" alt="Typing SVG" />
 </div>
 
 I'm a PhD student at the Moscow Power Engineering Institute (MPEI) and an Assistant Lecturer at Tanta University, specializing in Power Systems Engineering. My research focuses on FACTS devices, industrial protection, and decarbonization. I'm passionate about developing software solutions for modern power system challenges.
 
 ## 💻 Technical Skills
+
 <div align="center">
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -17,9 +19,11 @@ I'm a PhD student at the Moscow Power Engineering Institute (MPEI) and an Assist
 </div>
 
 ## 🔭 Featured Projects
-*I can help you add your key projects here. Could you please provide a list of your top 2-3 repositories you'd like to feature?*
+
+_I can help you add your key projects here. Could you please provide a list of your top 2-3 repositories you'd like to feature?_
 
 ## 📝 Publications
+
 <details>
   <summary><b>View Selected Research Papers</b></summary>
   <br>
@@ -33,6 +37,7 @@ I'm a PhD student at the Moscow Power Engineering Institute (MPEI) and an Assist
 </details>
 
 ## 🎓 Education & Experience
+
 ```mermaid
 timeline
     title My Academic & Professional Journey
@@ -44,6 +49,7 @@ timeline
 ```
 
 ## 📫 Get in Touch
+
 <div align="center">
   <a href="mailto:ahm_elkholy@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/ahmelkholy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
