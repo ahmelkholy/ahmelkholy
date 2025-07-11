@@ -53,9 +53,9 @@ timeline
   <a href="https://orcid.org/0000-0002-1834-1175"><img src="https://img.shields.io/badge/ORCID-339933?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
 </div>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmelkholy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmelkholy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+</div> -->
