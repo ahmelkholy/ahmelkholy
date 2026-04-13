@@ -1,6 +1,6 @@
-# <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Ahmed+Elkholy;PhD,+MSE+–+Power+Systems+Engineer;Researcher-Developer+Hybrid" alt="Typing SVG" />
-</div>
+# Ahmed Elkholy, PhD
+
+> Power Systems Engineer · Researcher · Developer
 
 I am Ahmed Elkholy, a Ph.D. Student at the Moscow Power Engineering Institute (MPEI) and an Assistant Lecturer at Tanta University. As a Researcher-Developer hybrid and VS Code Power User, my specialization bridges Power Systems Engineering, FACTS devices, industrial protection, and grid decarbonization. I develop high-performance energy software solutions, leveraging mathematical modeling to solve modern power system stability and integration challenges.
 
