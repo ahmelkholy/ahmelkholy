@@ -1,4 +1,4 @@
-# Ahmed Elkholy, PhD
+# Ahmed Elkholy
 
 > Power Systems Engineer · Researcher · Developer
 
@@ -8,13 +8,17 @@ I am Ahmed Elkholy, a Ph.D. Student at the Moscow Power Engineering Institute (M
 
 <div align="center">
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/ETAP-E45C32?style=for-the-badge&logo=electrical&logoColor=white" alt="ETAP" />
+  <img src="https://img.shields.io/badge/DIgSILENT-009E49?style=for-the-badge&logo=lightning&logoColor=white" alt="DIgSILENT" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7B68EE?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Prompt Engineering" />
 </div>
 
 ## 🚀 Featured Projects
