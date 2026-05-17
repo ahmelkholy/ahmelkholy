@@ -1,167 +1,182 @@
-# LinkedIn Data Verification Template
+# LinkedIn Data Verification Checklist
 
-Please review the information below and let me know what needs to be corrected based on your LinkedIn profile:
+Use this document to verify that the public README and LinkedIn profile tell the same professional story. The README should stay concise and polished; this file can hold the detailed checks, corrections, and source-of-truth notes before updates are published.
 
-## 🎓 Education & Academic Timeline
+## Verification Workflow
 
-**Current in README.md:**
+1. Compare each README item with the current LinkedIn profile.
+2. Mark confirmed items as verified.
+3. Record corrections with exact wording, dates, and links.
+4. Apply only confirmed corrections to `README.md`.
+5. Re-check the README after editing for consistency, accuracy, and professional tone.
 
-- 2018: B.Sc. in Electrical Power & Machines Engineering - Tanta University
-- 2021: M.Sc. in Electrical Power & Machines Engineering - Tanta University
-- 2022-Present: Ph.D. Candidate - Moscow Power Engineering Institute (MPEI)
+## Profile Headline and Summary
 
-**Please verify if the following are accurate:**
+| Item | Current README value | Verification notes |
+| --- | --- | --- |
+| Name | Ahmed Elkholy | |
+| Headline | Power Systems Engineer, Researcher, Developer | |
+| Current academic role | Ph.D. Student at Moscow Power Engineering Institute (MPEI) | |
+| Current teaching role | Assistant Lecturer at Tanta University | |
+| Core positioning | Power systems engineering, applied research, and scientific software development | |
 
-- [ ] Graduation years correct?
-- [ ] Degree titles accurate?
-- [ ] Institution names correct?
-- [ ] PhD start date accurate?
+- [ ] Confirm preferred professional headline.
+- [ ] Confirm whether "Ph.D. Student" or "Ph.D. Candidate" is the correct title.
+- [ ] Confirm whether the LinkedIn summary should mention developer work, research work, or both equally.
+- [ ] Confirm whether any industry-facing keywords should be added.
 
-## 👨‍🏫 Professional Experience
+## Education and Academic Timeline
 
-**Current in README.md:**
+| Item | Current README value | Verification notes |
+| --- | --- | --- |
+| B.Sc. | 2014, Electrical Power and Machines Engineering, Tanta University | |
+| M.Sc. | 2021, Power Systems Engineering, Tanta University | |
+| Ph.D. | 2022-Present, Moscow Power Engineering Institute (MPEI) | |
 
-- Assistant Lecturer - Electrical Power and Machines Engineering Department, Faculty of Engineering, Tanta University
+- [ ] Confirm graduation years.
+- [ ] Confirm official degree titles.
+- [ ] Confirm institution names and department names.
+- [ ] Confirm the Ph.D. start date and current status.
+- [ ] Add dissertation title or research topic if it should appear publicly.
 
-**Please verify:**
+## Professional Experience
 
-- [ ] Current job title accurate?
-- [ ] Department name correct?
-- [ ] Are there other positions/roles missing?
-- [ ] Employment start dates?
+| Item | Current README value | Verification notes |
+| --- | --- | --- |
+| Software Developer | 2012-2014 | |
+| Demonstrator and M.Sc. Researcher | 2016-2019, Tanta University | |
+| Assistant Lecturer | 2022-Present, Tanta University | |
 
-## 🔬 Research Areas
+- [ ] Confirm all job titles and date ranges.
+- [ ] Confirm department and faculty names.
+- [ ] Add missing roles, research appointments, consulting work, or teaching responsibilities.
+- [ ] Decide whether the software developer experience should remain in the public README timeline.
 
-**Current in README.md:**
+## Research and Technical Focus
 
-- Grid Synchronization Techniques
-- Phase-Locked Loops (PLLs) for Power Systems
-- Distributed Generation
-- Renewable Energy Integration
-- Power Electronics
-- Industrial Electronics
-- Power Quality Analysis
+Current README focus areas:
 
-**Please verify:**
+- Power system stability, protection, and reliability in modern distribution networks.
+- FACTS devices, industrial protection, and fault mitigation strategies.
+- Renewable energy integration, wind power penetration, and grid decarbonization.
+- Microgrid operation, intentional islanding, and distributed generation control.
+- Scientific programming, simulation automation, and reproducible engineering research.
 
-- [ ] Are all research areas listed?
-- [ ] Any research areas to add/remove?
-- [ ] Priority/focus areas correctly emphasized?
+Verification checklist:
 
-## 📚 Publications & Research Output
+- [ ] Confirm the focus areas are accurate and ordered by priority.
+- [ ] Add missing topics such as PLLs, power quality, power electronics, or grid synchronization if they are central to the LinkedIn profile.
+- [ ] Remove topics that are no longer active priorities.
+- [ ] Confirm the README should use broad professional terms rather than highly narrow research keywords.
 
-**Current in README.md:**
+## Technical Toolkit
 
-- Lists 4 sample publications (2021-2024)
-- Links to Google Scholar profile
+Current README tools and languages:
 
-**Please verify:**
+- MATLAB
+- ETAP
+- DIgSILENT PowerFactory
+- Python
+- Julia
+- C
+- R
+- STM32
+- LaTeX
+- Linux
+- Git
 
-- [ ] Are publication years accurate?
-- [ ] Are journal/conference names correct?
-- [ ] Should specific publications be highlighted?
-- [ ] Are co-author details accurate?
+Verification checklist:
 
-## 🏆 Achievements & Certifications
+- [ ] Confirm every listed tool is accurate.
+- [ ] Add important missing tools, platforms, or simulation environments.
+- [ ] Remove tools that should not be emphasized publicly.
+- [ ] Confirm whether proficiency levels should be shown or avoided.
 
-**Current in README.md:**
+## Selected Projects
 
-- Best Paper Award - IEEE Conference 2022
-- Teaching Excellence Award - 2021
-- Research Grant Recipient - 2023
+| Project | Current README value | Verification notes |
+| --- | --- | --- |
+| Islanding scenarios for highly reliable operation in distribution networks | 2017-2019 | |
+| Impact of large wind energy penetration on electric power systems | 2013-2014 | |
 
-**Please verify:**
+- [ ] Confirm project titles.
+- [ ] Confirm project dates.
+- [ ] Confirm whether outcomes are stated accurately.
+- [ ] Add links, papers, repositories, or reports if public.
+- [ ] Decide whether additional recent projects should replace older work.
 
-- [ ] Are award names and years correct?
-- [ ] Any additional achievements to add?
-- [ ] Are the awarding organizations accurate?
+## Publications
 
-## 💼 Skills & Expertise
+Current README highlights:
 
-**Current in README.md:**
+- "Comprehensive Study of the Impact of Unbalanced Loading on Power Losses and Voltage Quality in Distribution Systems" - IEEE EDM 2024.
+- "Design and Implementation of an Arc Suppression Device for Single Line to Ground Faults in Power Systems" - MEPCON 2023.
 
-- MATLAB (⭐⭐⭐⭐⭐)
-- Power Systems Analysis (⭐⭐⭐⭐⭐)
-- Grid Synchronization (⭐⭐⭐⭐⭐)
-- Python (⭐⭐⭐⭐)
-- Power Electronics (⭐⭐⭐⭐)
-- LaTeX (⭐⭐⭐⭐)
-- PLC Programming (⭐⭐⭐)
+Verification checklist:
 
-**Please verify:**
+- [ ] Confirm exact titles.
+- [ ] Confirm author order and co-author formatting.
+- [ ] Confirm conference names, years, DOI links, and publication status.
+- [ ] Decide whether these are the strongest papers to highlight.
+- [ ] Confirm that the Google Scholar link is current.
 
-- [ ] Skill proficiency levels accurate?
-- [ ] Any important skills missing?
-- [ ] Any tools/software to add?
+## Honors and Awards
 
-## 🌐 Contact & Links
+Current README highlights:
 
-**Current in README.md:**
+- Foreign Mission Envoys Winner - Scholarship from the Ministry of Higher Education.
+- Distinction and Class Honors - Ranked sixth, Tanta University, 2014.
 
-- Email: ahm_elkholy@outlook.com
-- LinkedIn: linkedin.com/in/ahmelkholy/
-- YouTube: youtube.com/@ahmelkholy
-- Website: ahmelkholy.github.io
-- Google Scholar, ORCID, Scopus, ResearchGate profiles
+Verification checklist:
 
-**Please verify:**
+- [ ] Confirm official award names.
+- [ ] Confirm awarding organizations.
+- [ ] Confirm years and ranking language.
+- [ ] Add any missing scholarships, grants, certifications, or conference awards.
 
-- [ ] All contact information accurate?
-- [ ] Any social media/professional profiles to add/update?
-- [ ] Are all academic profile URLs correct?
+## Contact and Profile Links
 
-## 🗣️ Languages
+| Profile | Current README value | Verification notes |
+| --- | --- | --- |
+| Email | ahm_elkholy@outlook.com | |
+| LinkedIn | https://www.linkedin.com/in/ahmelkholy/ | |
+| Google Scholar | https://scholar.google.com/citations?user=KbZs8_AAAAAJ&hl=en | |
+| ResearchGate | https://www.researchgate.net/profile/Ahmed-Elkholy-7?ev=hdr_xprf | |
+| GitHub | https://github.com/ahmelkholy | |
+| YouTube | https://www.youtube.com/@ahmelkholy | |
 
-**Current in README.md:**
+- [ ] Confirm all URLs are active and public.
+- [ ] Add ORCID, Scopus, personal website, or institutional profile if desired.
+- [ ] Decide whether YouTube should remain in the main README contact row.
 
-- Arabic (Native)
-- English (Fluent)
-- Russian (Intermediate)
+## Optional LinkedIn-Only Details
 
-**Please verify:**
+These details are useful on LinkedIn but may not belong in a short GitHub profile README unless they support a clear reader need.
 
-- [ ] Language proficiency levels accurate?
-- [ ] Any languages to add?
+- [ ] Languages and proficiency levels.
+- [ ] Current location.
+- [ ] Teaching courses and supervision work.
+- [ ] Certifications and training.
+- [ ] Volunteer work or professional memberships.
+- [ ] Full publication list.
 
-## 📍 Location & Affiliations
+## Correction Template
 
-**Current in README.md:**
+Use this format for precise updates:
 
-- Based in Egypt (Tanta University)
-- Studying in Russia (MPEI)
-
-**Please verify:**
-
-- [ ] Current location accurate?
-- [ ] Institutional affiliations correct?
-
----
-
-## 🔧 Instructions for Corrections
-
-Please review each section above and:
-
-1. **Mark checkboxes** ✅ for accurate information
-2. **Provide corrections** for any inaccurate data
-3. **Add missing information** that should be included
-4. **Specify priority** for the most important updates
-
-### Format for Corrections:
-
+```text
+Section: Education / Experience / Research / Skills / Publications / Links
+Current README text:
+Corrected text:
+Source or LinkedIn reference:
+Priority: High / Medium / Low
+Apply to README: Yes / No
 ```
-Section: [Education/Experience/etc.]
-Current: [what's in README now]
-Correct: [what it should be]
-Priority: [High/Medium/Low]
-```
 
-### Example:
+## Final Readiness Check
 
-```
-Section: Education
-Current: 2018: B.Sc. in Electrical Power & Machines Engineering
-Correct: 2017: B.Sc. in Electrical Power & Machines Engineering
-Priority: High
-```
-
-Once you provide the corrections, I'll update your README.md file with the accurate LinkedIn data and maintain all the ultimate automation features we've created.
+- [ ] README and LinkedIn use consistent dates, titles, and institution names.
+- [ ] The top summary is accurate, concise, and keyword-rich.
+- [ ] No unverified awards, publications, or proficiency levels remain.
+- [ ] Links open correctly.
+- [ ] The README still reads as a professional GitHub profile, not a full CV.
