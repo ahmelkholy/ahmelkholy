@@ -9,7 +9,7 @@ My work combines mathematical modeling, simulation, optimization, and automation
 <div align="center">
   <a href="mailto:ahm_elkholy@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/ahmelkholy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://scholar.google.com/citations?user=KbZs8_AAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://scholar.google.com/citations?user=KbZs8_AAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
   <a href="https://www.researchgate.net/profile/Ahmed-Elkholy-7?ev=hdr_xprf"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
   <a href="https://github.com/ahmelkholy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.youtube.com/@ahmelkholy"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
@@ -38,7 +38,7 @@ My work combines mathematical modeling, simulation, optimization, and automation
 <div align="center">
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
   <img src="https://img.shields.io/badge/ETAP-E45C32?style=for-the-badge" alt="ETAP" />
-  <img src="https://img.shields.io/badge/DIgSILENT_PowerFactory-009E49?style=for-the-badge" alt="DIgSILENT PowerFactory" />
+  <img src="https://img.shields.io/badge/DIgSILENT%20PowerFactory-009E49?style=for-the-badge" alt="DIgSILENT PowerFactory" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
