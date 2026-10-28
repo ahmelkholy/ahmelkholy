@@ -27,7 +27,9 @@
   <a href="mailto:ahm_elkholy@outlook.com"><img src="https://img.shields.io/badge/Personal%20email-334155?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Personal email" /></a>
 </p>
 
-I work on **power-system studies, equipment modelling and engineering software**. I am a researcher at **MPEI** and an **Assistant Lecturer at Tanta University**. My PhD on shunt regulation in unbalanced distribution networks is in progress, with completion expected in **December 2026**.
+<!-- shared:bio -->
+Electrical power engineer with experience in transformer commissioning tests, equipment modelling, reactive-power compensation and ETAP studies for industrial and PV projects. Researcher at MPEI and Assistant Lecturer at Tanta University, pursuing a PhD with completion expected in December 2026. Also contributes to utility equipment specifications and develops power-system analysis software in Julia and Python.
+<!-- /shared:bio -->
 
 **Explore:** [Projects](#projects) · [Engineering experience](#engineering-experience) · [Tools](#tools) · [Education](#education) · [Research & community](#research--community)
 
@@ -107,13 +109,12 @@ Tutorials, laboratory teaching, assessment and student project supervision in El
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-176B9A?style=flat-square) ![ETAP](https://img.shields.io/badge/ETAP-B44925?style=flat-square) ![NEPLAN](https://img.shields.io/badge/NEPLAN-334155?style=flat-square) ![PowerFactory](https://img.shields.io/badge/DIgSILENT_PowerFactory-397A32?style=flat-square) ![PSCAD](https://img.shields.io/badge/PSCAD-3264AB?style=flat-square) ![Python](https://img.shields.io/badge/Python-3264AB?style=flat-square&logo=python&logoColor=white) ![Julia](https://img.shields.io/badge/Julia-6553A6?style=flat-square&logo=julia&logoColor=white) ![R](https://img.shields.io/badge/R-3264AB?style=flat-square&logo=r&logoColor=white)
 
-| Area | Software and experience |
-| --- | --- |
-| **Power-system studies** | ETAP · NEPLAN · DIgSILENT PowerFactory · PSCAD |
-| **Study types** | Load flow · Short circuit · Arc flash · Protection settings · Small-signal and transient stability · Harmonic analysis |
-| **Modelling** | MATLAB/Simulink · Simscape Electrical · Measurement-based parameter fitting · Genetic algorithms |
-| **Programming** | Python · Julia · R · SQL |
-| **Engineering documentation** | Git · LaTeX · Reports · Specifications · Inspection/test plans |
+<!-- shared:skills -->
+- **Power-system studies:** ETAP, NEPLAN, DIgSILENT PowerFactory and PSCAD; load flow, short circuit, arc flash, protection settings, capacitor compensation, PV and battery-source scenarios; small-signal and transient stability, harmonic analysis.
+- **Modelling and analysis:** MATLAB/Simulink, Simscape Electrical, parameter fitting from measurements, genetic algorithms, unbalanced distribution networks.
+- **Power electronics:** thyristor-based compensation, shunt regulators, arc-suppression devices and power quality.
+- **Programming and documentation:** Python, Julia, R, SQL, Git/GitHub and LaTeX; engineering reports, specifications and inspection/test plans.
+<!-- /shared:skills -->
 
 ## Education
 
@@ -133,18 +134,31 @@ timeline
 <details>
 <summary><strong>Expand degrees, supervisors and appointment dates</strong></summary>
 
-| Period | Education or appointment |
-| --- | --- |
-| In progress; expected December 2026 | PhD studies, MPEI. Supervisor: Prof. Dmitry I. Panfilov. |
-| October 2023–present | Researcher / R&D Engineer, MPEI, Industrial Electronics Department. |
-| July 2019–present | Assistant Lecturer, Tanta University. |
-| 2016–2019 | MSc in Electrical Power and Machines Engineering, Tanta University. Thesis: *Islanding Scenarios for High Reliable Operation of Distribution Networks*. Supervisor: Prof. Ahmed Refat Azmy. |
-| March 2016–July 2019 | Demonstrator, Tanta University. |
-| 2009–2014 | BSc in Electrical Power and Machines Engineering, Tanta University. Renewable-energy project: *The Impact of Large Wind Energy Penetration on the Performance of Electric Power Systems*. Supervisor: Prof. Ahmed Refat Azmy. Project grade: Excellent (99%). |
+<!-- shared:education -->
+**PhD studies in Electrical Engineering — MPEI, Russia** | In progress; expected December 2026
+
+Research: managing operating conditions in distribution networks with unbalanced loads using shunt regulation devices. Supervisor: Prof. Dmitry I. Panfilov.
+
+**MSc in Electrical Power and Machines Engineering — Tanta University** | 2016–2019
+
+Thesis: *Islanding Scenarios for High Reliable Operation of Distribution Networks.* Supervisor: Prof. Ahmed Refat Azmy.
+
+**BSc in Electrical Power and Machines Engineering — Tanta University** | 2009–2014
+
+Renewable-energy project: *The Impact of Large Wind Energy Penetration on the Performance of Electric Power Systems.* Supervisor: Prof. Ahmed Refat Azmy. Grade: Excellent (99%).
+
+**Assistant Lecturer — Tanta University** | July 2019–present
+
+Tutorials, laboratory teaching, assessment and student project supervision. Previously **Demonstrator**, March 2016–July 2019.
+<!-- /shared:education -->
 
 </details>
 
 ## Research & community
+
+<!-- shared:links -->
+[Website](https://ahmelkholy.github.io/) | [LinkedIn](https://www.linkedin.com/in/ahmelkholy/) | [Google Scholar](https://scholar.google.com/citations?user=KbZs8_AAAAAJ&hl=en) | [GitHub](https://github.com/ahmelkholy) | [YouTube](https://www.youtube.com/@ahmelkholy)
+<!-- /shared:links -->
 
 **Read the research.** My [Google Scholar profile](https://scholar.google.com/citations?user=KbZs8_AAAAAJ&hl=en) holds the full publication list. Research identity: [ORCID 0000-0002-1834-1175](https://orcid.org/0000-0002-1834-1175).
 
