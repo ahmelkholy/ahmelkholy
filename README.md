@@ -1,30 +1,30 @@
-<p align="center">
-  <img src="assets/profile-banner.svg" alt="Ahmed M. Elkholy — electrical power engineer, researcher at MPEI and Assistant Lecturer at Tanta University" width="100%" />
-</p>
+# Ahmed M. Elkholy
+
+**Electrical Power Engineer | Researcher | Engineering Software Developer**
 
 <p align="center">
   <strong>Professional</strong><br />
-  <a href="https://ahmelkholy.github.io/">Website &amp; articles</a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/ahmelkholy/">LinkedIn</a> &nbsp; · &nbsp;
-  <a href="https://github.com/ahmelkholy">GitHub</a> &nbsp; · &nbsp;
-  <a href="https://tdb2.tanta.edu.eg/staff/ahmelkholy">Tanta University</a> &nbsp; · &nbsp;
-  <a href="https://github.com/AIMORA-dev">AIMORA</a>
+  <a href="https://ahmelkholy.github.io/"><img src="https://img.shields.io/badge/Website-334155?style=flat-square&amp;logo=githubpages&amp;logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/ahmelkholy/"><img src="https://img.shields.io/badge/LinkedIn-334155?style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://github.com/ahmelkholy"><img src="https://img.shields.io/badge/GitHub-334155?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="https://tdb2.tanta.edu.eg/staff/ahmelkholy"><img src="https://img.shields.io/badge/Tanta%20University-334155?style=flat-square" alt="Tanta University" /></a>
+  <a href="https://github.com/AIMORA-dev"><img src="https://img.shields.io/badge/AIMORA-6553A6?style=flat-square&amp;logo=julia&amp;logoColor=white" alt="AIMORA" /></a>
 </p>
 <p align="center">
   <strong>Research</strong><br />
-  <a href="https://scholar.google.com/citations?user=KbZs8_AAAAAJ&amp;hl=en">Google Scholar</a> &nbsp; · &nbsp;
-  <a href="https://orcid.org/0000-0002-1834-1175">ORCID</a> &nbsp; · &nbsp;
-  <a href="https://www.researchgate.net/profile/Ahmed-Elkholy-7">ResearchGate</a> &nbsp; · &nbsp;
-  <a href="https://www.zotero.org/ahmelkholy">Zotero</a> &nbsp; · &nbsp;
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=57202189065">Scopus</a> &nbsp; · &nbsp;
-  <a href="https://www.sciprofiles.com/profile/amelkholy">SciProfiles</a>
+  <a href="https://scholar.google.com/citations?user=KbZs8_AAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-3264AB?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://orcid.org/0000-0002-1834-1175"><img src="https://img.shields.io/badge/ORCID-397A32?style=flat-square&amp;logo=orcid&amp;logoColor=white" alt="ORCID" /></a>
+  <a href="https://www.researchgate.net/profile/Ahmed-Elkholy-7"><img src="https://img.shields.io/badge/ResearchGate-334155?style=flat-square&amp;logo=researchgate&amp;logoColor=white" alt="ResearchGate" /></a>
+  <a href="https://www.zotero.org/ahmelkholy"><img src="https://img.shields.io/badge/Zotero-334155?style=flat-square&amp;logo=zotero&amp;logoColor=white" alt="Zotero" /></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=57202189065"><img src="https://img.shields.io/badge/Scopus-334155?style=flat-square" alt="Scopus" /></a>
+  <a href="https://www.sciprofiles.com/profile/amelkholy"><img src="https://img.shields.io/badge/SciProfiles-334155?style=flat-square" alt="SciProfiles" /></a>
 </p>
 <p align="center">
   <strong>Community</strong><br />
-  <a href="https://www.youtube.com/@ahmelkholy">YouTube</a> &nbsp; · &nbsp;
-  <a href="https://www.facebook.com/ahm.m.elkholy">Facebook</a> &nbsp; · &nbsp;
-  <a href="mailto:ahmed_elkholy@f-eng.tanta.edu.eg">University email</a> &nbsp; · &nbsp;
-  <a href="mailto:ahm_elkholy@outlook.com">Personal email</a>
+  <a href="https://www.youtube.com/@ahmelkholy"><img src="https://img.shields.io/badge/YouTube-B91C1C?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.facebook.com/ahm.m.elkholy"><img src="https://img.shields.io/badge/Facebook-334155?style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
+  <a href="mailto:ahmed_elkholy@f-eng.tanta.edu.eg"><img src="https://img.shields.io/badge/University%20email-334155?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="University email" /></a>
+  <a href="mailto:ahm_elkholy@outlook.com"><img src="https://img.shields.io/badge/Personal%20email-334155?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Personal email" /></a>
 </p>
 
 I work on **power-system studies, equipment modelling and engineering software**. I am a researcher at **MPEI** and an **Assistant Lecturer at Tanta University**. My PhD on shunt regulation in unbalanced distribution networks is in progress, with completion expected in **December 2026**.
@@ -35,15 +35,11 @@ I work on **power-system studies, equipment modelling and engineering software**
 
 ### AIMORA · Power-system analysis in Julia
 
-[![AIMORA: equipment models, EMT simulation and platform interfaces, in development](assets/aimora-overview.svg)](https://github.com/AIMORA-dev)
-
 I lead development of AIMORA. Current work covers EMT simulation, line/cable and transformer parameters, project/study interfaces and numerical tests. Broader study modules and the desktop client are planned.
 
 **[Explore AIMORA →](https://github.com/AIMORA-dev)** · [AIMORA.jl](https://github.com/AIMORA-dev/AIMORA.jl) · [Platform](https://github.com/AIMORA-dev/AIMORAPlatform) · [Resources](https://github.com/AIMORA-dev/AIMORAResources)
 
 ### EV charging · Corridor planning
-
-[![EV charging simulation: a 669 km corridor, five scenarios and 50 runs total; station positions are illustrative](assets/ev-corridor.svg)](https://doi.org/10.1016/j.epsr.2026.113505)
 
 As lead author and software developer, I developed Python genetic-algorithm software to locate and size fast chargers under traffic, grid, storage and renewable-energy constraints. The published study evaluates five scenarios over a 669 km motorway corridor, with **50 runs in total**.
 
@@ -109,6 +105,8 @@ Tutorials, laboratory teaching, assessment and student project supervision in El
 
 ## Tools
 
+![MATLAB](https://img.shields.io/badge/MATLAB-176B9A?style=flat-square) ![ETAP](https://img.shields.io/badge/ETAP-B44925?style=flat-square) ![NEPLAN](https://img.shields.io/badge/NEPLAN-334155?style=flat-square) ![PowerFactory](https://img.shields.io/badge/DIgSILENT_PowerFactory-397A32?style=flat-square) ![PSCAD](https://img.shields.io/badge/PSCAD-3264AB?style=flat-square) ![Python](https://img.shields.io/badge/Python-3264AB?style=flat-square&logo=python&logoColor=white) ![Julia](https://img.shields.io/badge/Julia-6553A6?style=flat-square&logo=julia&logoColor=white) ![R](https://img.shields.io/badge/R-3264AB?style=flat-square&logo=r&logoColor=white)
+
 | Area | Software and experience |
 | --- | --- |
 | **Power-system studies** | ETAP · NEPLAN · DIgSILENT PowerFactory · PSCAD |
@@ -118,6 +116,17 @@ Tutorials, laboratory teaching, assessment and student project supervision in El
 | **Engineering documentation** | Git · LaTeX · Reports · Specifications · Inspection/test plans |
 
 ## Education
+
+```mermaid
+timeline
+    title Education and engineering journey
+    2009–2014 : BSc, Tanta University
+    2016 : MSc studies and Demonstrator, Tanta University
+    2019 : MSc completed : Assistant Lecturer, Tanta University
+    2023 : Researcher, MPEI
+    2024 : Independent ETAP studies
+    2026 : AIMORA development and Power Consult collaboration : PhD in progress, expected December
+```
 
 **Tanta University:** BSc **2014** · MSc **2019** &nbsp; | &nbsp; **MPEI:** PhD in progress, expected **December 2026**
 
